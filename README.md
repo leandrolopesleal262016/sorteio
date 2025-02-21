@@ -1,7 +1,7 @@
 # Aplicação de Sorteio Web
 
 Uma aplicação web para realizar sorteios de forma interativa, com suporte a áudio e feedback por voz.
-
+Pode ser acessada em https://wise360.org/sorteio/
 ## Estrutura do Projeto
 
 ```
